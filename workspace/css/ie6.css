@@ -1,0 +1,24 @@
+#contact-schedule {
+	background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image src='/workspace/images/schedule.png');
+}
+#recent_events li {
+	zoom: 1;
+}
+
+ul#submenu {
+/*	padding: 0;*/
+/*	margin: 0;*/
+	width: 120px;
+}
+
+form input.textfield,
+form textarea {
+	width: 450px;
+	margin-top: 5px;
+}
+
+form#comment_form input.textfield,
+form textarea {
+	width: 445px;	
+}

@@ -1,0 +1,11 @@
+                      3721979137<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Crossroads Farm</title>
+    <link>http://crossroadsfarm.org</link>
+    <description>Crossroads Farm Events Feed</description>
+    <language>en-us</language>
+    <generator>Crossroads Farm</generator>
+    <atom:link href="http://crossroadsfarm.org/events/rss/" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>

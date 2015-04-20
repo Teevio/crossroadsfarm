@@ -1,0 +1,22 @@
+#column_left #recent_blogs.events ul li,
+#column_left #recent_blogs.archive ul li {
+	padding-top: 0;
+}
+#column_left #recent_blogs.events ul li p,
+#column_left #recent_blogs.archive ul li p {
+	margin-top: -7px;
+}
+#column_left #recent_blogs.events ul li p.day,
+#column_left #recent_blogs.archive ul li p.day {
+	padding-top: 11px;
+	margin: 0;
+}
+
+#column_left #recent_blogs.events ul li p.date,
+#column_left #recent_blogs.archive ul li p.date {
+	margin-top: 3px;
+}
+
+#column_right {
+	padding-top: 233px;
+}

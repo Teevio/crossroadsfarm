@@ -1,0 +1,39 @@
+<?php
+if(!defined('DOCROOT')) define('DOCROOT', '/home/28112/domains/crossroadsfarm.org/html');
+if(!defined('DOMAIN')) define('DOMAIN', 'crossroadsfarm.org');
+
+$settings = array();
+	$settings['admin']['max_upload_size'] = '5242880';
+	$settings['symphony']['pagination_maximum_rows'] = '17';
+	$settings['symphony']['allow_page_subscription'] = '1';
+	$settings['symphony']['lang'] = 'en';
+	$settings['symphony']['build'] = '2000';
+	$settings['symphony']['cookie_prefix'] = 'sym-';
+	$settings['log']['archive'] = '1';
+	$settings['log']['maxsize'] = '102400';
+	$settings['general']['sitename'] = 'Crossroads Farm';
+	$settings['general']['useragent'] = 'Symphony/2000';
+	$settings['image']['cache'] = '1';
+	$settings['image']['quality'] = '90';
+	$settings['database']['driver'] = 'mysql';
+	$settings['database']['character_set'] = 'utf8';
+	$settings['database']['character_encoding'] = 'utf8';
+	$settings['database']['runtime_character_set_alter'] = '1';
+	$settings['database']['disable_query_caching'] = 'no';
+	$settings['database']['host'] = 'internal-db.s28112.gridserver.com';
+	$settings['database']['port'] = '3306';
+	$settings['database']['user'] = 'db28112';
+	$settings['database']['password'] = 'YQAch9HH';
+	$settings['database']['db'] = 'db28112_crossroadsfarm';
+	$settings['database']['tbl_prefix'] = 'sym_';
+	$settings['public']['maintenance_mode'] = 'no';
+	$settings['public']['display_event_xml_in_source'] = 'yes';
+	$settings['region']['time_format'] = 'H:i';
+	$settings['region']['date_format'] = 'd F Y';
+	$settings['region']['timezone'] = 'America/New_York';
+	$settings['file']['write_mode'] = '0775';
+	$settings['directory']['write_mode'] = '0775';
+	$settings['map-location-field']['google-api-key'] = '';
+	$settings['akismet']['api-key'] = '508346008efc';
+
+require_once(DOCROOT . '/symphony/lib/boot/bundle.php');

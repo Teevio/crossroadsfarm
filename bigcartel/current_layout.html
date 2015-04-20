@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>{{ store.name }} &mdash; {{ page.name }}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta name="description" content="{{ page.meta_description }}" />
+    <meta name="keywords" content="{{ page.meta_keywords }}" />
+    <link href="/products.rss" rel="alternate" title="Product RSS Feed" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://crossroadsfarm.org/workspace/css/styles.css" />
+    <!--[if IE]><link rel="stylesheet" href="/workspace/css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" href="/workspace/css/ie6.css" type="text/css" media="screen, projection"><![endif]-->
+    <script src="{{ 'prototype' | theme_js_url }}" type="text/javascript"></script>
+    <script src="{{ 'store' | theme_js_url }}" type="text/javascript"></script>
+    {{ head_content }}
+</head>
+<body id="{{ page.permalink }}-page" class="{{ page.permalink }} {{ page.category }}">
+    <img src="/workspace/images/crf.jpg" style="visibility: hidden; position:absolute;left: -1000px" />
+    <div id="package">
+        <ul id="menu">
+            <li class="top"><a href="http://crossroadsfarm.org/" title="Home">Home</a></li>
+            <li><a href="http://crossroadsfarm.org/about/" title="About">About</a></li>
+            <li><a href="http://crossroadsfarm.org/blog/" title="Blog">Blog</a></li>
+            <li><a href="http://crossroadsfarm.org/events/" title="Events">Events</a></li>
+            <li><a href="http://crossroadsfarm.org/support/" title="Support">Support</a></li>
+            <li><a href="http://crossroadsfarm.org/links/" title="Links">Links</a></li>
+            <li class="bottom"><a href="http://crossroadsfarm.org/contact/" title="Contact">Contact</a></li>
+        </ul>
+        <div id="wrapper">
+            <div id="masthead">
+                <h1>
+                    <a href="http://crossroadsfarm.org"><strong>Crossroads Farm</strong></a>
+                </h1>
+            </div>
+            <div id="content">
+                <div id="header">
+
+                    <!-- START EMBED CODE -->
+
+                    <script type="text/javascript" src="http://crossroadsfarm.org/ssp_director/m/embed.js"></script>
+
+                    <div id="album-4">
+
+                    </div>
+
+
+                    <script type="text/javascript">
+
+                    SlideShowPro({
+                        attributes: {
+                            id: "album-4",
+                            width: 837,
+                            height: 264
+                        },
+                        mobile: {
+                            auto: false,
+                            poster: "crystal"
+                        },
+                        params: {
+                            bgcolor: "#000000",
+                            allowfullscreen: true
+                        },
+                        flashvars: {
+                            xmlFilePath: "http://crossroadsfarm.org/ssp_director/images.php?album=4",
+                            paramXMLPath: "http://crossroadsfarm.org/ssp_director/m/params/chromeless.xml",
+                            videoAutoStart: "Off",
+                            panZoom: "On",
+                            navLinkAppearance: "Numbers",
+                            contentScale: "Crop to Fit"
+                        }
+                    });
+                    </script>                      
+
+
+                    <!-- END EMBED CODE -->
+
+                    <a href="{$root}/support" class="header_overlay"><img src="/workspace/images/header/positively_impact.png" /></a>
+                </div>
+                {{ page_content }}
+                <div class="clear"></div>
+            </div>
+            <ul id="footer">
+                <li>&#169; 2011 <a href="/" title="Crossroads Farm">Crossroads Farm</a></li>
+                <li>/</li>
+                <li>Site Design by <a href="http://teev.io" title="Teevio LLC">Teevio LLC</a></li>
+            </ul>
+        </div>
+    </div>
+    <script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+    <script type="text/javascript">
+    try {
+    reinvigorate.track("81294-0l80861718");
+    } catch(err) {}
+    </script>
+</body>
+</html>
