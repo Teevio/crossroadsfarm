@@ -24,13 +24,13 @@
 
 		</title>
 		<meta name="verify-v1" content="ycw17fnKRilt92uu+7XVxPEU6+fv8GzRo3Vmqx1Oqzk=" />
-        <meta name="description" content="Crossroads Farm exists in order to provide social, educational, spiritual, and relational opportunities to the secondary students of Hillsdale County." />
+        <meta name="description" content="Crossroads Farm exists in order to provide social, educational, spiritual, and relational opportunities to the secondary students of our surrounding counties." />
 		<link rel="icon" type="images/png" href="/workspace/images/icons/bookmark.png" />
 		<link rel="stylesheet" type="text/css" media="screen" href="/workspace/css/styles.css" />
         <xsl:comment><![CDATA[[if IE]><link rel="stylesheet" href="/workspace/css/ie.css" type="text/css" media="screen, projection"><![endif]]]></xsl:comment>
         <xsl:comment><![CDATA[[if IE 6]><link rel="stylesheet" href="/workspace/css/ie6.css" type="text/css" media="screen, projection"><![endif]]]></xsl:comment>
 
-        
+
 
 
 		<link rel="alternate" type="application/rss+xml" href="/rss/" />
@@ -82,7 +82,7 @@
                         			contentScale: "Crop to Fit"
                         		}
                         	});
-                                    &lt;/script&gt;                      
+                                    &lt;/script&gt;
                             </xsl:text>
 
 
@@ -107,8 +107,8 @@
             &lt;script type=&quot;text/javascript&quot;&gt;
                     try {
                     reinvigorate.track("67871-xyg1o73867");
-                    } catch(err) {}            
-                    
+                    } catch(err) {}
+
                     var _gaq = _gaq || [];
                      _gaq.push(['_setAccount', 'UA-6897005-1']);
                      _gaq.push(['_trackPageview']);
@@ -118,7 +118,7 @@
                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                      })();
-                &lt;/script&gt;                      
+                &lt;/script&gt;
         </xsl:text>
 	</body>
 </html>

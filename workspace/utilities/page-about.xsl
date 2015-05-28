@@ -5,14 +5,14 @@
         <h3>About</h3>
         <p>Today, perhaps more than at any other time, teenagers need love, care, and understanding. Within the boundaries of rural Hillsdale County, there is little for the teenager to do. Crime is up while teachers and administration have had their hands tied. Parents are afraid to send their kids to school because of the moral decay.</p>
 
-        <p>Crossroads Farm exists in order to provide social, educational, spiritual, and relational opportunities to the secondary students of Hillsdale County. Aim
+        <p>Crossroads Farm exists in order to provide social, educational, spiritual, and relational opportunities to the secondary students of our surrounding counties. Aim
 
         Positively impacting rural communities by empowering students, interns and adult leaders.</p>
 
         <h4>Ministry Vision Statement</h4>
 
-        <p>We at Crossroads Farm see every secondary student in Hillsdale County hearing the Gospel of Christ and having the opportunity to say "Yes" or "No" to that message.</p>
-        
+        <p>We at Crossroads Farm see every secondary student in our surrounding counties hearing the Gospel of Christ and having the opportunity to say "Yes" or "No" to that message.</p>
+
         <h4>Ministry Mission Statement</h4>
 
         <p>At Crossroads Farm, we desire to win students to Christ, build students in Christ and equip students to serve Christ. </p>
@@ -32,7 +32,7 @@
         <p>Full-time staff includes the Farm's Director, an office manager and a music associate. We are looking to hire a Middle school associate and a Creative Resource Director in the future.</p>
 
         <p>Crossroads Farm has graduated five 2-year interns since it's founding in 1999.</p>
-		
+
 		<p>If you would like to read our <a href="/workspace/uploads/doctrinal_statement.pdf" target="_blank">doctrinal statement</a> you can <a href="/workspace/uploads/doctrinal_statement.pdf" target="_blank">download it in PDF format</a>.</p>
     </xsl:template>
 </xsl:stylesheet>
