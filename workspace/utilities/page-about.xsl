@@ -11,7 +11,7 @@
 
         <h4>Ministry Vision Statement</h4>
 
-        <p>We at Crossroads Farm see every secondary student in our surrounding counties hearing the Gospel of Christ and having the opportunity to say "Yes" or "No" to that message.</p>
+        <p>We at Crossroads Farm see every secondary student in the surrounding counties being able to hear the Gospel of Christ and having the opportunity to say “Yes” or “No” to that message.</p>
 
         <h4>Ministry Mission Statement</h4>
 
