@@ -3,7 +3,7 @@
 
     <xsl:template name="donate">
         <div id="donate">
-            <p><a href="https://donatenow.networkforgood.org/crossroadsfarm?code=CRFdonations"><img id="imgDonateButton" alt="DonateNow" border="0" src="https://assets.networkforgood.org/dn2buttons/DN2Button-GreenLarge.png"></a></p>
+            <p><a href="https://donatenow.networkforgood.org/crossroadsfarm?code=CRFdonations"><img id="imgDonateButton" alt="DonateNow" border="0" src="https://assets.networkforgood.org/dn2buttons/DN2Button-GreenLarge.png" /></a></p>
         </div>
 
     </xsl:template>

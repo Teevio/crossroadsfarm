@@ -6,7 +6,7 @@
         <h3>Support</h3>
         <p>Be a part of what God is doing at Crossroads Farm by partnering with your time and resources.  If you would like to <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=383477455" title="Donate to Crossroards Farm">make an online donation</a> you can use the button below:</p>
 
-        <p class="donate"><a href="https://donatenow.networkforgood.org/crossroadsfarm?code=CRFdonations"><img id="imgDonateButton" alt="DonateNow" border="0" src="https://assets.networkforgood.org/dn2buttons/DN2Button-GreenLarge.png"></a></p>
+        <p class="donate"><a href="https://donatenow.networkforgood.org/crossroadsfarm?code=CRFdonations"><img id="imgDonateButton" alt="DonateNow" border="0" src="https://assets.networkforgood.org/dn2buttons/DN2Button-GreenLarge.png" /></a></p>
 
         <p>If you would rather mail in a contribution please make <em>checks payable to</em> <strong> Crossroads Farm</strong>.   If you desire for your contribution to go to a specific missionary or need, please indicate so on the envelope or with a separate note.</p>
 
