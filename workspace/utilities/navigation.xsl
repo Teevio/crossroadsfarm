@@ -4,6 +4,7 @@
     <xsl:template match="navigation">
         <ul id="menu">
             <xsl:apply-templates select="page[not(types/type = 'hidden') and not(types/type = 'admin')]"/>
+            <li class="bottom"><a href="https://donatenow.networkforgood.org/crossroadsfarm?code=CRFdonations">Donate Now</a></li>
         </ul>
     </xsl:template>
 
@@ -12,9 +13,9 @@
             <xsl:if test="position() = 1">
                 <xsl:attribute name="class">top</xsl:attribute>
             </xsl:if>
-            <xsl:if test="position() = last()">
+            <!-- <xsl:if test="position() = last()">
                 <xsl:attribute name="class">bottom</xsl:attribute>
-            </xsl:if>
+            </xsl:if> -->
 
             <a href="{$root}/{@handle}/" title="{name}">
                 <xsl:if test="@handle = $current-page">
@@ -40,7 +41,7 @@
                     <li class="bottom"><a href="{$root}/{@handle}/wishlist" title="Wishlist">Wishlist</a></li>
                     </ul> -->
                 </xsl:if>
-                
+
                 <xsl:if test="@handle = 'about' and @handle = $current-page">
                     <ul id="submenu">
                         <li class="top"><a href="{$root}/{@handle}/staff" title="Staff">Staff</a></li>
