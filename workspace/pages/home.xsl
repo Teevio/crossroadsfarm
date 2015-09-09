@@ -21,7 +21,7 @@
   <div id="column_right">
     <xsl:call-template name="col-right"/>
     <!-- <xsl:apply-templates select="recent-photos"/> -->
-    <xsl:apply-templates select="recent-events"/>
+    <!-- <xsl:apply-templates select="recent-events"/> -->
             <xsl:call-template name="ecfa"/>
   </div>
 </xsl:template>

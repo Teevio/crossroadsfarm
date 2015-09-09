@@ -3,7 +3,7 @@
 
     <xsl:template match="upcoming-events">
         <h3>Upcoming Events</h3>
-		<p><b>2013-2014 Program Calendar</b></p>
+		<p><b>CRF Program Calendar</b></p>
 		<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showTabs=0&amp;showCalendars=0&amp;height=375&amp;wkst=1&amp;bgcolor=%23003333&amp;src=crossroadsfarmcalendar%40gmail.com&amp;color=%23875509&amp;ctz=America%2FNew_York" style=" border:solid 1px #777 " width="480" height="375" frameborder="0" scrolling="no"></iframe>
         <xsl:apply-templates select="year/month"/>
     </xsl:template>
@@ -39,7 +39,7 @@
             <p class="date">
                 <xsl:value-of select="description"/>&#160;
             </p>
-        </li>                
+        </li>
     </xsl:template>
 
 </xsl:stylesheet>
