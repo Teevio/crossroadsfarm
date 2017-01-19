@@ -5,9 +5,7 @@
         <h3>About</h3>
         <p>Today, perhaps more than at any other time, teenagers need love, care, and understanding. Within the boundaries of rural Hillsdale County, there is little for the teenager to do. Crime is up while teachers and administration have had their hands tied. Parents are afraid to send their kids to school because of the moral decay.</p>
 
-        <p>Crossroads Farm exists in order to provide social, educational, spiritual, and relational opportunities to the secondary students of our surrounding counties. Aim
-
-        Positively impacting rural communities by empowering students, interns and adult leaders.</p>
+        <p>Crossroads Farm exists in order to provide social, educational, spiritual, and relational opportunities to the secondary students of our surrounding counties. We aim to positively impact rural communities by empowering students, interns and adult leaders.</p>
 
         <h4>Ministry Vision Statement</h4>
 
