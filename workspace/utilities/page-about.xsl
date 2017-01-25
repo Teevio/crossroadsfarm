@@ -21,7 +21,7 @@
 
         <p>Crossroads Farm seeks to impact the community by building a sense of pride through the quality and substance of its mission, while remaining nondiscriminatory in regard to race, religion, or socioeconomic background. Any kid between 6th and 12th grade is welcome.</p>
 
-            <p>Crossroads Farm is still in the beginning stages of hiring its full-time staff and purchasing the farm for daily operations. Renovations include winterization, conversion of the barn into a community youth barn, lighting, sound, stage, seating, restrooms, game room, coffee house, computer lab, etc.</p>
+            <p>In April of 2016, Crossroads Farm officially opened its first year round youth facility on Farm property. Our new facility, The Shed, houses our student programming and youth worker offices. The Shed provides more than double the student capacity of our prior Student Center, a 200-year-old converted brick church building in the town of Reading. The church bell from the Student Center is on display in front of The Shed as a memento of many years of ministry and a reminder of God’s faithful provision for our ministry here in Hillsdale County.</p>
 
         <p>Grounds renovation of the 105 acres are to include sports fields, basketball courts, rollerblading/biking path, outdoor volleyball courts, wetlands and a wooded fitness trail. In addition, office suites, guest housing, conference areas, and study rooms are part of the future plans.</p>
 
